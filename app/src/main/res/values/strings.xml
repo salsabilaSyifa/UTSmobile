@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="affirmation1">Sepak Bola</string>
+    <string name="affirmation2">Basket</string>
+    <string name="affirmation3">Football</string>
+    <string name="affirmation4">Lari</string>
+    <string name="affirmation5">Badminton</string>
+    <string name="affirmation6">Hoki Es</string>
+    <string name="affirmation7">Renang</string>
+    <string name="affirmation8">Seluncur Es</string>
+    <string name="affirmation9">Senam Aerobik</string>
+    <string name="affirmation10">Senam Lantai</string>
+</resources>
